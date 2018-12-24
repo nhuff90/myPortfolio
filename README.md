@@ -1,2 +1,3 @@
-# myPortfolio
-This is my professional portfolio
+# Nate Huff's professional portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
